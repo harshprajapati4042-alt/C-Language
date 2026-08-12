@@ -1,2 +1,2 @@
-# C-Language
-It is an complete c language program repository.
+# C Language Programs
+This repository contains all my C language codes and practice programs.
